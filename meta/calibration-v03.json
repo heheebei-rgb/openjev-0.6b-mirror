@@ -1,0 +1,20 @@
+{
+  "choice": {
+    "temperature": 1.3541150568420315,
+    "n": 93,
+    "calibration_nll_before": 0.5952000047380006,
+    "calibration_nll_after": 0.5705615692852044
+  },
+  "noul": {
+    "temperature": 0.977266942127047,
+    "n": 41,
+    "calibration_nll_before": 0.4924010784306282,
+    "calibration_nll_after": 0.49233379282972484
+  },
+  "score": {
+    "temperature": 0.8406156450553844,
+    "n": 33,
+    "calibration_nll_before": 0.6330676168069681,
+    "calibration_nll_after": 0.6292877311008911
+  }
+}

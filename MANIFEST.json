@@ -1,0 +1,70 @@
+{
+ "targets": {
+  "qwen3-0.6b/model.safetensors": {
+   "sha256": "f47f71177f32bcd101b7573ec9171e6a57f4f4d31148d38e382306f42996874b",
+   "bytes": 1503300328,
+   "parts": [
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-00",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-01",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-02",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-03",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-04",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-05",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-06",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-07",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-08",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-09",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-10",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-11",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-12",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-13",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-14",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-15",
+    "openjev-0.6b-mirror/qwen3-0.6b/model.safetensors.part-16"
+   ],
+   "part_size": 90000000
+  },
+  "meta/adapter_model.safetensors": {
+   "sha256": "112e80f7ccc835b57266f9af6cfdf18eaf3e99c02c91a71941d5d1ac89c5ec07",
+   "bytes": 4602248
+  },
+  "meta/head.safetensors": {
+   "sha256": "5f9e0780f6c8ace63a43fdbd58cfd2293e81d22d637ed139221a578fa7a9ac8d",
+   "bytes": 4176
+  },
+  "best.safetensors": {
+   "sha256": "fff62d1412685c1714eaa386acb603f9690371fb3cc8ad03dc41319302597c28",
+   "bytes": 2385039280,
+   "parts": [
+    "nanoev-0.6b-mirror/best.safetensors.part-00",
+    "nanoev-0.6b-mirror/best.safetensors.part-01",
+    "nanoev-0.6b-mirror/best.safetensors.part-02",
+    "nanoev-0.6b-mirror/best.safetensors.part-03",
+    "nanoev-0.6b-mirror/best.safetensors.part-04",
+    "nanoev-0.6b-mirror/best.safetensors.part-05",
+    "nanoev-0.6b-mirror/best.safetensors.part-06",
+    "nanoev-0.6b-mirror/best.safetensors.part-07",
+    "nanoev-0.6b-mirror/best.safetensors.part-08",
+    "nanoev-0.6b-mirror/best.safetensors.part-09",
+    "nanoev-0.6b-mirror/best.safetensors.part-10",
+    "nanoev-0.6b-mirror/best.safetensors.part-11",
+    "nanoev-0.6b-mirror/best.safetensors.part-12",
+    "nanoev-0.6b-mirror/best.safetensors.part-13",
+    "nanoev-0.6b-mirror/best.safetensors.part-14",
+    "nanoev-0.6b-mirror/best.safetensors.part-15",
+    "nanoev-0.6b-mirror/best.safetensors.part-16",
+    "nanoev-0.6b-mirror/best.safetensors.part-17",
+    "nanoev-0.6b-mirror/best.safetensors.part-18",
+    "nanoev-0.6b-mirror/best.safetensors.part-19",
+    "nanoev-0.6b-mirror/best.safetensors.part-20",
+    "nanoev-0.6b-mirror/best.safetensors.part-21",
+    "nanoev-0.6b-mirror/best.safetensors.part-22",
+    "nanoev-0.6b-mirror/best.safetensors.part-23",
+    "nanoev-0.6b-mirror/best.safetensors.part-24",
+    "nanoev-0.6b-mirror/best.safetensors.part-25",
+    "nanoev-0.6b-mirror/best.safetensors.part-26"
+   ],
+   "part_size": 90000000
+  }
+ }
+}
